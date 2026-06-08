@@ -1,3 +1,4 @@
 # github-demo
-my first git repository
+My first GIT repository
+<br>
 Author - Aditya Bamishte
